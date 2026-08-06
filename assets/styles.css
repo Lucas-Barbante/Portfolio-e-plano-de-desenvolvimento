@@ -1,0 +1,68 @@
+body {
+   background-color: #3f3f3f;
+}
+
+.container {
+    display: flex;
+    border: 2px solid whitesmoke;
+    margin: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.divfundo { 
+    background-image: url(./img/bannerfundo.jpg);
+    object-fit: fill;
+    border: 2px solid purple;
+}
+
+.divnavbar {
+    text-align: start;
+    border: 2px solid green;
+}
+
+.navlinks {
+    text-align: end;
+    border: 2px solid blue;
+    justify-content: center;
+}
+
+.div-texto {
+    border: 2px solid green;
+    margin: 25px;
+}
+.divretrato {
+    
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.retrato {
+    max-height: 70%;
+    max-width: 70%;
+}
+
+
+a:link {
+    color: beige;
+    text-decoration: none;
+}
+a:visited {
+    color: azure;
+    text-decoration: none;
+}
+a:hover {
+    color:cornflowerblue;
+    
+}
+
+.mainthead {
+    margin: 20px;
+}
+
+.main-text {
+    font-size: 20px;
+}
