@@ -1,138 +1,123 @@
 body {
-   background-color: #F5F3FF;
-   margin: 0;
-   display: flex;
-   flex-direction: column;
-   min-height: 100vh;
-}   
+  background-color: #f5f3ff;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
 
 main {
-    flex: 1;
+  flex: 1;
 }
 
 .container {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    margin: 2px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 2px;
 }
 
-#retratobg {
-    background-color: white;
-}
-
-.divfundo { 
-    background: linear-gradient(
-        90deg,
-        #2E1065,
-        #161B22,
-        #2E1065
-    );
-    background-size: cover;
-    margin-bottom: 15px;
-    
+.divfundo {
+  background: linear-gradient(90deg, #2e1065, #161b22, #2e1065);
+  background-size: cover;
+  margin-bottom: 15px;
 }
 
 .divnavbar {
-    text-align: start;
-    display: flex;
-    justify-content: flex-start;
-    padding-left: 15px;
-    padding-right: 15px;
-    font-family: 'Times New Roman', Times, serif;
+  text-align: start;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .navlinks {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 15px;
-    padding-right: 15px;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding-right: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
 }
 
 .div-texto {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #3f3f3f;
 }
 .divretrato {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid #3f3f3f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #3f3f3f;
+  background-color: white;
 }
 
 .retrato {
-    height: auto;
-    width: 75%;
-    border: 2px solid#3f3f3f;
+  height: auto;
+  width: 75%;
+  border: 2px solid#3f3f3f;
 }
 
 .navth {
-    margin: 5px;
+  margin: 5px;
 }
 
 .main-footer {
-    background: linear-gradient(
-        90deg,
-        #2E1065,
-        #161B22,
-        #2E1065
-    );
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    gap: 300px;
-
+  background: linear-gradient(90deg, #2e1065, #161b22, #2e1065);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  gap: 300px;
 }
 
 .main-footer-info {
-    display: flex;
-    margin: 10px;
-    flex-direction: column;
-    margin-top: auto;
-    margin: 10px;
-    font-family: 'Times New Roman', Times, serif;
-    color: whitesmoke  ;
+  display: flex;
+  margin: 10px;
+  flex-direction: column;
+  margin-top: auto;
+  margin: 10px;
+  font-family: "Times New Roman", Times, serif;
+  color: whitesmoke;
 }
 
 a:link {
-    color: beige;
-    text-decoration: none;
-    text-align: center;
-    justify-content: center;
+  color: beige;
+  text-decoration: none;
+  text-align: center;
+  justify-content: center;
 }
 
 a:visited {
-    color: azure;
-    text-decoration: none;
-    
+  color: azure;
+  text-decoration: none;
 }
 
 a:hover {
-    color:cornflowerblue;
-    
+  color: cornflowerblue;
 }
 
 .main-text {
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
 }
 .main-h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
-    color: #1F2937;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  color: #1f2937;
 }
 
 .main-h3 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
-    color: #3f3f3f;
-    padding-top: 15px;
-    padding-bottom: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  color: #3f3f3f;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
