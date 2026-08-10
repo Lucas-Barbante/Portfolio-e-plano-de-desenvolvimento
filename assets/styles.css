@@ -127,11 +127,12 @@ a:hover {
 .curcontainer {
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: whitesmoke;
   align-items: center;
   box-shadow: #161b22 3px 3px 10px;
   border: 2px solid #3f3f3f;
   margin: 5px;
+  justify-content: center;
 }
 
 .curtext {
@@ -140,11 +141,45 @@ a:hover {
   font-family: "Times New Roman", Times, serif;
   font-size: 22px;
   color: #3f3f3f;
+  text-align: justify;
+  max-width: 750px;
 }
 
 .cursobre {
   display: flex;
   align-items: center;
   padding: 25px;
-  gap: 25px;
+  gap: 170px;
+}
+
+.curh1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  color: #1f2937;
+}
+
+.plancontainer {
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+  align-items: flex-start;
+  justify-content: center;
+  box-shadow: #161b22 3px 3px 10px;
+  border: 2px solid #3f3f3f;
+  margin: 5px;
+  padding: 10px;
+}
+
+.planitem {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.planestudo {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px;
 }
