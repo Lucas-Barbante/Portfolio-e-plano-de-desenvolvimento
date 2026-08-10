@@ -48,6 +48,7 @@ main {
   padding: 20px;
   background-color: white;
   border: 1px solid #3f3f3f;
+  box-shadow: #161b22 3px 3px 10px;
 }
 .divretrato {
   display: flex;
@@ -55,6 +56,7 @@ main {
   align-items: center;
   border: 2px solid #3f3f3f;
   background-color: white;
+  box-shadow: #161b22 3px 3px 10px;
 }
 
 .retrato {
@@ -120,4 +122,29 @@ a:hover {
   color: #3f3f3f;
   padding-top: 15px;
   padding-bottom: 15px;
+}
+
+.curcontainer {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  align-items: center;
+  box-shadow: #161b22 3px 3px 10px;
+  border: 2px solid #3f3f3f;
+  margin: 5px;
+}
+
+.curtext {
+  display: flex;
+  flex-direction: column;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+  color: #3f3f3f;
+}
+
+.cursobre {
+  display: flex;
+  align-items: center;
+  padding: 25px;
+  gap: 25px;
 }
