@@ -10,6 +10,38 @@ main {
   flex: 1;
 }
 
+a:link {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  justify-content: center;
+}
+
+a:visited {
+  color: azure;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cornflowerblue;
+}
+
+th {
+  text-align: start;
+  padding-right: 15px;
+  padding-bottom: 5px;
+}
+
+td {
+  padding-right: 10px;
+}
+
+.btn {
+  padding: 7px;
+  font-family: "Times New Roman", Times, serif;
+  box-shadow: #161b22 1px 1px 7px;
+}
+
 .container {
   display: flex;
   justify-content: space-between;
@@ -76,7 +108,7 @@ main {
   justify-content: center;
   align-items: center;
   margin: 0;
-  gap: 300px;
+  gap: 250px;
 }
 
 .main-footer-info {
@@ -87,22 +119,7 @@ main {
   margin: 10px;
   font-family: "Times New Roman", Times, serif;
   color: whitesmoke;
-}
-
-a:link {
-  color: beige;
-  text-decoration: none;
-  text-align: center;
-  justify-content: center;
-}
-
-a:visited {
-  color: azure;
-  text-decoration: none;
-}
-
-a:hover {
-  color: cornflowerblue;
+  align-items: center;
 }
 
 .main-text {
@@ -150,6 +167,15 @@ a:hover {
   align-items: center;
   padding: 25px;
   gap: 170px;
+}
+
+.curcontato {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+  text-align: center;
 }
 
 .curh1 {
