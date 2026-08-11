@@ -34,7 +34,7 @@ Como visualizar
 
 Basta clonar o repositório e abrir o arquivo `index.html` no navegador:
 
-git clone https://github.com/Lucas-Barbante/<nome-do-repositorio>.git
+git clone https://github.com/Lucas-Barbante/Portfolio-e-plano-de-desenvolvimento.git
 
 Contato
 - LinkedIn: [(https://www.linkedin.com/in/lucas-barbante-72604630a/)](https://www.linkedin.com/in/lucas-barbante-72604630a/)
