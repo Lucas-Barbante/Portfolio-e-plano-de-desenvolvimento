@@ -1,11 +1,9 @@
 Portfólio Pessoal
 
 Este é um projeto que desenvolvi como parte do meu plano de desenvolvimento profissional voltado à área de front-end.
+O objetivo aqui foi relembrar e consolidar o básico ao avançado de HTML e CSS, construindo do zero para fixar bem os fundamentos antes de avançar para outras tecnologias. Este repositório vai continuar sendo atualizado conforme eu for aprendendo novas linguagens, bibliotecas e frameworks, ou seja, ele funciona também como um registro da minha evolução como desenvolvedor.
 
-O objetivo aqui foi relembrar e consolidar o básico ao avançado de HTML e CSS, construindo do zero para fixar bem os fundamentos antes de avançar para outras tecnologias. Este repositório vai continuar sendo atualizado conforme eu for aprendendo novas linguagens, bibliotecas e frameworks — ou seja, ele funciona também como um registro da minha evolução como desenvolvedor.
-
-obre o projeto
-
+sobre o projeto:
 O site reúne minha apresentação pessoal, minha trajetória com a tecnologia, meus projetos, meu currículo e a rota de aprendizado que estou seguindo. A ideia é que ele cresça junto comigo: à medida que eu aprender React, TypeScript e outras ferramentas, o próprio portfólio vai sendo migrado e expandido para incorporar essas novas habilidades.
 
 Tecnologias utilizadas
