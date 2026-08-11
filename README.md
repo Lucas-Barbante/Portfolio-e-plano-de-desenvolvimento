@@ -8,17 +8,17 @@ O site reúne minha apresentação pessoal, minha trajetória com a tecnologia, 
 
 Tecnologias utilizadas
 
-- HTML5 — estruturação semântica das páginas
-- CSS3 — estilização, responsividade (Flexbox) e organização visual
-- Git & GitHub — versionamento do projeto desde o início do desenvolvimento
+- HTML5 - estruturação semântica das páginas
+- CSS3 - estilização, responsividade (Flexbox) e organização visual
+- Git & GitHub - versionamento do projeto desde o início do desenvolvimento
 
 Estrutura do site
 
-- Início — apresentação pessoal e resumo do que faço
-- Sobre mim — minha trajetória com a tecnologia e programação
-- Meus projetos — projetos desenvolvidos ao longo do aprendizado
-- Meu currículo — download do currículo e links de contato
-- Rota de aprendizado — plano de desenvolvimento profissional de 6 meses que estou seguindo, com metas e indicadores de progresso
+- Início - apresentação pessoal e resumo do que faço
+- Sobre mim - minha trajetória com a tecnologia e programação
+- Meus projetos - projetos desenvolvidos ao longo do aprendizado
+- Meu currículo - download do currículo e links de contato
+- Rota de aprendizado - plano de desenvolvimento profissional de 6 meses que estou seguindo, com metas e indicadores de progresso
 
 Próximos passos
 
